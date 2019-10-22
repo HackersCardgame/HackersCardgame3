@@ -40,7 +40,7 @@ cp ../cards/template/templateA4.svg ../assembled/$1/A4/
    echo $i
    echo $file 
    /usr/bin/inkscape $i &
-   sleep 3
+   sleep 4
    xdotool key Ctrl+Alt+a
    sleep 1
    xdotool key Ctrl+c
