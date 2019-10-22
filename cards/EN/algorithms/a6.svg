@@ -48,8 +48,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.880904"
-     inkscape:cx="32.514318"
-     inkscape:cy="207.97661"
+     inkscape:cx="-47.234569"
+     inkscape:cy="205.84997"
      inkscape:document-units="mm"
      inkscape:current-layer="layer26"
      showgrid="false"
@@ -335,7 +335,7 @@
          ry="4.5458832" />
     </g>
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="barRed"
        id="g2901"
        inkscape:groupmode="layer"
@@ -354,9 +354,9 @@
        inkscape:groupmode="layer"
        id="g2959"
        inkscape:label="barPink"
-       style="display:none">
+       style="display:inline">
       <rect
-         style="fill:#ff5555;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect2957"
          width="62.100834"
          height="12.847491"
