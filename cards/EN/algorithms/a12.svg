@@ -72,11 +72,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="53.61163"
-     inkscape:cy="206.08891"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="204.52876"
+     inkscape:cy="199.46626"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="layer25"
      showgrid="false"
      inkscape:window-width="960"
      inkscape:window-height="1016"
@@ -681,6 +681,17 @@
          inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/a12.png"
          inkscape:export-xdpi="359.29999"
          inkscape:export-ydpi="359.29999" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="66.052818"
+         y="53.883568"
+         id="text8724"><tspan
+           sodipodi:role="line"
+           id="tspan8722"
+           x="66.052818"
+           y="53.883568"
+           style="text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">a12</tspan></text>
     </g>
   </g>
   <g

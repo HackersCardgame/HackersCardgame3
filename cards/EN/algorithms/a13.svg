@@ -46,11 +46,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="27.042163"
-     inkscape:cy="123.59633"
+     inkscape:zoom="2.1519444"
+     inkscape:cx="167.49193"
+     inkscape:cy="198.4252"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="layer25"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -478,6 +478,17 @@
          inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/a13.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="64.311493"
+         y="53.204536"
+         id="text8724"><tspan
+           sodipodi:role="line"
+           id="tspan8722"
+           x="64.311493"
+           y="53.204536"
+           style="text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">a13</tspan></text>
     </g>
   </g>
   <g
@@ -557,7 +568,7 @@
        inkscape:groupmode="layer"
        id="g2959"
        inkscape:label="barPink"
-       style="display:inline">
+       style="display:none">
       <rect
          style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect2957"
@@ -569,7 +580,7 @@
          ry="4.5458832" />
     </g>
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="barTuerkies"
        id="g3071"
        inkscape:groupmode="layer">

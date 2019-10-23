@@ -187,11 +187,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5216545"
-     inkscape:cx="-0.96561207"
-     inkscape:cy="224.81618"
+     inkscape:zoom="6.086618"
+     inkscape:cx="190.03962"
+     inkscape:cy="200.81596"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="g17177"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -206,7 +206,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1077,6 +1077,17 @@
          inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/sk1.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="64.96946"
+         y="53.708694"
+         id="text8724"><tspan
+           sodipodi:role="line"
+           id="tspan8722"
+           x="64.96946"
+           y="53.708694"
+           style="text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">sk1</tspan></text>
     </g>
   </g>
   <g
@@ -1389,7 +1400,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffff00;stroke-width:0.19798438"
            id="tspan15510">my opinion its a<tspan
    style="fill:#ff0000;stroke-width:0.19798438"
-   id="tspan15512"> Problem induced by Technology</tspan></tspan></text>
+   id="tspan15512"> Technology Problem</tspan></tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
