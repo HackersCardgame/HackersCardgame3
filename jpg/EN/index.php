@@ -42,4 +42,9 @@ if (in_array($ext, $supported_file)) {
 
 ?>
 
+ <audio controls autoplay>
+  <source src="SpaceTripExtended.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/611081637&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
