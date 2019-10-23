@@ -42,4 +42,8 @@ if (in_array($ext, $supported_file)) {
 
 ?>
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/611081637&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
+    <source src="SpaceTripExtended.mp3" type="audio/mp3" />
+    Your browser does not support the video tag or the file format of this video.
+</video>
+
