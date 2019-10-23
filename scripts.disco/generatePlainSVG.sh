@@ -17,7 +17,7 @@ svg 2.0 is here, inkscape seems to implement 1.2 draft but most
 other things dont, and if you look at https://www.w3.org/TR/SVG2/
 microsoft and adobe probably will block svg 2.0 too, since people
 would prefere an open document standard like svg over AI or WMF ....
-
+ \e[36mworkaround would be to select the text, and select "test" in the menubar and then select "Convert to Text" so inkscape would remove the FlowRoot elements\e[39m 
 
 
 "
