@@ -114,11 +114,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1519444"
-     inkscape:cx="92.443527"
+     inkscape:zoom="1.6840372"
+     inkscape:cx="139.84252"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
-     inkscape:current-layer="g17177"
+     inkscape:current-layer="layer25"
      showgrid="false"
      inkscape:window-width="960"
      inkscape:window-height="1016"
@@ -133,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -245,11 +245,11 @@
          style="text-align:justify;text-anchor:start"
          id="flowPara21823">As a Christian and psychology student, she saw that the Nazis are killing Jews, patients in mental institutions, innocents. She began to print flyers with her brother, distributed them at her university to stop Hitler. Unfortunately she and her brother was sentenced to death by a Nazi judge and murdered by the Nazis</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara82526"></flowPara><flowPara
+         id="flowPara82526" /><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara82528">May white roses materialize on her tomb</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara82530"></flowPara><flowPara
+         id="flowPara82530" /><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara82532">Opinion: Germany be proud on people</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
@@ -658,6 +658,17 @@
          inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ma6.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="66.844589"
+         y="53.423428"
+         id="text8724"><tspan
+           sodipodi:role="line"
+           id="tspan8722"
+           x="66.844589"
+           y="53.423428"
+           style="text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">ma6</tspan></text>
     </g>
   </g>
   <g
