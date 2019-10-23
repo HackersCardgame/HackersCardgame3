@@ -39,7 +39,7 @@ if (in_array($ext, $supported_file)) {
 
     echo '<div style="float:left;text-align:center;">';
     echo "<font color=green>" . $image . "</font>" . "<br>";
-    list ($fileName, $extension) = split('[.]', $image);
+    list ($fileName, $extension) = split('[\.]', $image);
     echo $fileName;
     echo '<a href="./'.$image .'" target="_blank"><img width=200 src="'.$image .'" ></a><br>';
     echo '</div>
