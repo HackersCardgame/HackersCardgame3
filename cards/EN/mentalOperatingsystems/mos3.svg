@@ -114,11 +114,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9807995"
-     inkscape:cx="109.2993"
+     inkscape:zoom="1.5553209"
+     inkscape:cx="139.84252"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer21"
+     inkscape:current-layer="layer26"
      showgrid="false"
      inkscape:window-width="960"
      inkscape:window-height="1016"
@@ -133,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -231,7 +231,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3256"
-       style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:7.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,0,2.1166667)"
        inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/mos3.png"
        inkscape:export-xdpi="363.92001"
@@ -247,7 +247,9 @@
    style="fill:#008000"
    id="flowSpan4929">definition of a Mental Operating System</flowSpan> would be a <flowSpan
    style="fill:#ff0000"
-   id="flowSpan4913">almost coherent dogma room for lazy people</flowSpan>. Those who create those systems try to make as less mistakes as possible, so that the members don't have to <flowSpan
+   id="flowSpan4913"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="flowSpan2928">almost coherent</flowSpan> dogma room for lazy people</flowSpan>. Those who create those systems try to make as less mistakes as possible, so that the members don't have to <flowSpan
    style="fill:#008000"
    id="flowSpan4931">much cognitive dissonances</flowSpan> otherwise they would <flowSpan
    style="fill:#008000"
@@ -255,7 +257,9 @@
    style="fill:#ff0000"
    id="flowSpan4919">low intelligence would prefere the Nazi mental operating system</flowSpan>. <flowSpan
    style="fill:#008000"
-   id="flowSpan4917">To show the Nazis where they have bugs could help to fix it.  </flowSpan></flowPara></flowRoot>    <text
+   id="flowSpan4917">To show the Nazis where they have bugs could help to imporve the situation. </flowSpan><flowSpan
+   id="flowSpan2932"
+   style="fill:#808000">But to disassemble and and uninstall a complete mental operating system takes a lot of effort.</flowSpan></flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"
