@@ -36,7 +36,9 @@ $supported_file = array(
 
 $ext = strtolower(pathinfo($image, PATHINFO_EXTENSION));
 if (in_array($ext, $supported_file)) {
-    echo '<a href="./'.$image .'"><img width=200 src="'.$image .'" ></a>';
+
+    echo $image;
+    echo '<a href="./'.$image .'" target="_blank"><img width=200 src="'.$image .'" ></a>';
     echo '
 ';
 
