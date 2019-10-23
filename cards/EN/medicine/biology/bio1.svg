@@ -115,8 +115,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.9807995"
-     inkscape:cx="114.85261"
-     inkscape:cy="193.88158"
+     inkscape:cx="139.84252"
+     inkscape:cy="198.4252"
      inkscape:document-units="mm"
      inkscape:current-layer="layer26"
      showgrid="false"
@@ -133,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -240,7 +240,9 @@
            x="32.526913"
            y="210.88132" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara10844">to find common ancestors. In my opinion people tend to focus to much on their genetic material. but knowing that we have lobsters as common anchestors and that they usually fight against each other to get the girl-lobster would be of use. mankind calls itself &quot;intelligent&quot; but follow these old lobster habits is maybe not that intelligent: Sorry German: https://www.youtube.com/watch?v=H6Z36Z_LCwU#t=30m (~30:00)</flowPara><flowPara
+         id="flowPara10844">to find common ancestors. In my opinion people tend to focus to much on their genetic material. but knowing that we have lobsters as common anchestors and that they usually fight against each other to get the girl-lobster would be of use. mankind calls itself &quot;intelligent&quot; but follow these old lobster habits is maybe not that intelligent: Sorry German: <flowSpan
+   style="fill:#008000"
+   id="flowSpan496">https://www.youtube.com/watch?v=H6Z36Z_LCwU#t=30m (~30:00)</flowSpan></flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara10848">A mad &quot;scientist&quot; maybe used swiss mental institutions and the #Verdingkinder for genetical engeneering. If one of the victims would find out that this would be true it would maybe have a lot of trouble, they also would like to know what sort of genetical material works best with eg t1 card</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
@@ -502,6 +504,17 @@
          inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/bio1.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="66.000465"
+         y="53.129128"
+         id="text8724"><tspan
+           sodipodi:role="line"
+           id="tspan8722"
+           x="66.000465"
+           y="53.129128"
+           style="text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">bio1</tspan></text>
     </g>
   </g>
   <g

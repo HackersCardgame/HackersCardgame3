@@ -114,11 +114,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5553209"
+     inkscape:zoom="1.9807995"
      inkscape:cx="139.84252"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="g8687"
      showgrid="false"
      inkscape:window-width="960"
      inkscape:window-height="1016"
@@ -133,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -628,6 +628,53 @@
          inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/mos4.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;"
+         x="64.06662"
+         y="53.512051"
+         id="text8724"><tspan
+           sodipodi:role="line"
+           id="tspan8722"
+           x="64.06662"
+           y="53.512051"
+           style="text-align:end;text-anchor:end;fill:#ff0000;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;">mos4</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+         x="-6.9137659"
+         y="78.179733"
+         id="text582-3"
+         transform="rotate(-55.337688)"><tspan
+           sodipodi:role="line"
+           id="tspan580-6"
+           x="-6.9137659"
+           y="78.179733"
+           style="fill:#ff0000;stroke-width:0.26458332;">system</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+         x="-11.560739"
+         y="71.924225"
+         id="text574"
+         transform="rotate(-55.337688)"><tspan
+           sodipodi:role="line"
+           id="tspan572"
+           x="-11.560739"
+           y="71.924225"
+           style="fill:#ff0000;stroke-width:0.26458332;">mental</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+         x="-9.4884253"
+         y="74.928413"
+         id="text578"
+         transform="rotate(-55.337688)"><tspan
+           sodipodi:role="line"
+           id="tspan576"
+           x="-9.4884253"
+           y="74.928413"
+           style="fill:#ff0000;stroke-width:0.26458332;">operating</tspan></text>
     </g>
   </g>
   <g
@@ -797,20 +844,20 @@
        inkscape:groupmode="layer">
       <text
          id="text8685"
-         y="11.111255"
+         y="11.640421"
          x="40.941513"
-         style="font-style:normal;font-weight:normal;font-size:3.88055556px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"
          inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/mos4.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
-           y="11.111255"
+           y="11.640421"
            x="40.941513"
            sodipodi:role="line"
            id="tspan8691">Ritual Abuse Mental</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
-           y="15.514914"
+           y="15.677108"
            x="40.941513"
            sodipodi:role="line"
            id="tspan4894">Operating System</tspan></text>

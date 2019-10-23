@@ -108,11 +108,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="172.76836"
-     inkscape:cy="207.02365"
+     inkscape:zoom="6.7230773"
+     inkscape:cx="154.69628"
+     inkscape:cy="206.02365"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="layer25"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -321,6 +321,17 @@
          inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/m47.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="64.789833"
+         y="53.855114"
+         id="text8724"><tspan
+           sodipodi:role="line"
+           id="tspan8722"
+           x="64.789833"
+           y="53.855114"
+           style="text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">m47</tspan></text>
     </g>
   </g>
   <g
