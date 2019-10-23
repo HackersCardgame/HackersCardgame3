@@ -11,6 +11,14 @@ Usage:
 To generate the Enlgish PNGs sheets: \e[36m./generatePNGs.sh EN\e[39m
 To generate the German  PNGs sheets: \e[36m./generatePNGs.sh DE\e[39m
 
+AND SINCE FlowRoot, Flow.... things only work in the svg 1.2 draft
+and this is needed for justified print we probably wait until
+svg 2.0 is here, inkscape seems to implement 1.2 draft but most
+other things dont, and if you look at https://www.w3.org/TR/SVG2/
+microsoft and adobe probably will block svg 2.0 too, since people
+would prefere an open document standard like svg over AI or WMF ....
+
+
 
 "
 exit 0
@@ -48,11 +56,7 @@ for i in $(cat ./SVGs.txt)
   sleep 5
   xdotool key KP_Enter
   sleep 5
-  xdotool key Ctrl+w
-  sleep 5
-  xdotool key Alt+F4
-  sleep 5
-  xdotool key Alt+w
+  killall inkscape
 done
 
 
