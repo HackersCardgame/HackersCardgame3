@@ -37,7 +37,7 @@ for i in $(cat ./SVGs.txt)
   sleep 5
   xdotool key Ctrl+Shift+s
   sleep 5
-  xdotool key Shift+Tab Shift+Tab Shift+Tab Down
+  xdotool key Shift+Tab Shift+Tab Shift+Tab Home Down
   sleep 5
   xdotool key Tab Tab Tab
   sleep 5
