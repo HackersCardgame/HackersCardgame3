@@ -114,11 +114,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5216545"
-     inkscape:cx="120.75177"
-     inkscape:cy="217.26273"
+     inkscape:zoom="1.9807995"
+     inkscape:cx="139.84252"
+     inkscape:cy="198.4252"
      inkscape:document-units="mm"
-     inkscape:current-layer="g14946"
+     inkscape:current-layer="layer25"
      showgrid="false"
      inkscape:window-width="960"
      inkscape:window-height="1016"
@@ -133,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -534,7 +534,7 @@
          inkscape:export-ydpi="363.92001" />
       <g
          id="g12232"
-         transform="matrix(0.25886259,0,0,0.25509869,-2.9255254,-184.11164)"
+         transform="matrix(0.26957211,0,0,0.26565249,-3.8268061,-192.3405)"
          style="display:inline;opacity:0.87000002;enable-background:new"
          inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/g1.png"
          inkscape:export-xdpi="363.92001"
@@ -588,6 +588,17 @@
          inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/g1.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="66.375549"
+         y="52.471516"
+         id="text8724"><tspan
+           sodipodi:role="line"
+           id="tspan8722"
+           x="66.375549"
+           y="52.471516"
+           style="text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">g1</tspan></text>
     </g>
   </g>
   <g
