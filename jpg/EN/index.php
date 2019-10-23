@@ -42,7 +42,7 @@ if (in_array($ext, $supported_file)) {
 
 ?>
 
-<audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
+<audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop controls>
     <source src="SpaceTripExtended.mp3" type="audio/mp3" />
     Your browser does not support the video tag or the file format of this video.
 </video>
