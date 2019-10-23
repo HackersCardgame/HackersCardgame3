@@ -105,11 +105,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="127.52929"
-     inkscape:cy="232.19329"
+     inkscape:zoom="1.5553209"
+     inkscape:cx="178.09829"
+     inkscape:cy="198.4252"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="g8687"
      showgrid="false"
      inkscape:window-width="960"
      inkscape:window-height="1016"
@@ -124,7 +124,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -280,7 +280,7 @@
          id="tspan24846"
          x="41.274994"
          y="71.34417"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -461,7 +461,7 @@
            id="tspan957">mulitiline äöü Comment</tspan></text>
     </g>
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="headerTextMilitary"
        id="g8687"
        inkscape:groupmode="layer">
@@ -475,10 +475,10 @@
            y="13.757085"
            x="40.941513"
            sodipodi:role="line"
-           id="tspan8691">Military Rank</tspan></text>
+           id="tspan8691">Stimoceiver</tspan></text>
     </g>
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="headerTextBitstream"
        id="g3145"
        inkscape:groupmode="layer">
