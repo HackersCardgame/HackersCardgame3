@@ -18,6 +18,7 @@ Source:<br>
 </audio>
 
 <br><br>
+
    <?php
 
    $files = glob("*.*");
@@ -38,8 +39,9 @@ $ext = strtolower(pathinfo($image, PATHINFO_EXTENSION));
 if (in_array($ext, $supported_file)) {
 
     echo '<div style="float:left;text-align:center;">';
-    echo "<font color=green>" . $image . "</font>" . "<br>";
-    echo '<a href="./'.$image .'" target="_blank"><img width=200 src="'.$image .'" ></a><br>';
+    $parts = explode(".", $image);
+    echo "<font color=green>" . $parts[0] . "</font>" . "<br>";
+    echo '<a href="./'.$image .'" id="'.$parts[0].'"'.' target="_blank"><img width=200 src="'.$image .'" ></a><br><hr>';
     echo '</div>
 ';
 
