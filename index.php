@@ -12,7 +12,7 @@ Source:<br>
 <!-- and of course nobody would have the stupid idea to place microdots in such a repository https://en.wikipedia.org/wiki/Microdot-->
 
 
-<audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop controls>
+<audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
     <source src="SpaceTripExtended.mp3" type="audio/mp3" />
     Your browser does not support the video tag or the file format of this video.
 </audio>
@@ -47,9 +47,4 @@ if (in_array($ext, $supported_file)) {
 }
 
 ?>
-
-<audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
-    <source src="SpaceTripExtended.mp3" type="audio/mp3" />
-    Your browser does not support the video tag or the file format of this video.
-</video>
 
