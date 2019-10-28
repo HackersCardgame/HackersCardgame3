@@ -51,7 +51,7 @@
      inkscape:cx="199.58447"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer24"
+     inkscape:current-layer="layer25"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -66,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -212,14 +212,17 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5222"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:bold;font-size:10.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'sans-serif Bold';font-stretch:normal;font-variant:normal"><flowRegion
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:bold;font-size:10.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'sans-serif Bold';font-stretch:normal;font-variant:normal"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a18.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001"><flowRegion
          id="flowRegion5224"><rect
            id="rect5226"
            width="23.699497"
            height="13.011489"
            x="105.486"
            y="339.69278" /></flowRegion><flowPara
-         id="flowPara5228"></flowPara></flowRoot>  </g>
+         id="flowPara5228" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer22"
@@ -275,28 +278,36 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-9.3698444"
-         y="45.374931"
+         x="-8.8406773"
+         y="44.458389"
          id="text5246"
-         transform="rotate(-30)"><tspan
+         transform="rotate(-30)"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a18.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
            id="tspan5244"
-           x="-9.3698444"
-           y="45.374931"
+           x="-8.8406773"
+           y="44.458389"
            style="fill:#ff0000;stroke:none;stroke-width:0.26458332">with technology induced</tspan><tspan
            sodipodi:role="line"
-           x="-9.3698444"
-           y="48.90271"
+           x="-8.8406773"
+           y="47.986168"
            style="fill:#ff0000;stroke:none;stroke-width:0.26458332"
            id="tspan5248">ICD-10 F44.0 it would</tspan><tspan
            sodipodi:role="line"
-           x="-9.3698444"
-           y="52.430489"
+           x="-8.8406773"
+           y="51.513947"
            style="fill:#ff0000;stroke:none;stroke-width:0.26458332"
            id="tspan5252">become much more complicated</tspan><tspan
            sodipodi:role="line"
-           x="-9.3698444"
-           y="55.958263"
+           x="-8.8406773"
+           y="55.041721"
+           style="fill:#ff0000;stroke:none;stroke-width:0.26458332"
+           id="tspan6086">but read the whole text</tspan><tspan
+           sodipodi:role="line"
+           x="-8.8406773"
+           y="58.5695"
            style="fill:#ff0000;stroke:none;stroke-width:0.26458332"
            id="tspan5250" /></text>
     </g>
@@ -330,7 +341,7 @@
            id="tspan8722"
            x="65.070915"
            y="53.573387"
-           style="text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">a5</tspan></text>
+           style="text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">a18</tspan></text>
     </g>
   </g>
   <g
