@@ -1,6 +1,6 @@
 <h1>Hackers Cardgame</h1>
 Never Play "Red Team" help out with "Blue Team" and save the World<br><br>
-please respect the license, People like Julian Assange, Fefe, Frank Rieger, @Paniq & Silvia, Tschökk Sparrow, Gunnar Kaiser, Dan Kaminsky, John Hunter (world peace game) are excluded from the 1978 Rule in my license, if you think you should be excluded from the "1978 and younger" you can contact me on twitter @FailDef<br><br>
+please respect the license, People like Julian Assange, Fefe, Frank Rieger, @Paniq & Silvia, Tschökk Sparrow, Gunnar Kaiser, Dan Kaminsky, John Hunter (world peace game) are excluded from the 1978 Rule in my license, if you think you should be excluded from the "1978 and younger"-Rule you can contact me on twitter @FailDef<br><br>
 <a href="https://github.com/braindef/Hackers-Cardgame/blob/master/LICENSE">license</a>
 
 
