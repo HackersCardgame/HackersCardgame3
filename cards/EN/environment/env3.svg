@@ -48,7 +48,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1519444"
-     inkscape:cx="139.84252"
+     inkscape:cx="140.30722"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
      inkscape:current-layer="layer26"
@@ -85,7 +85,7 @@
        width="63.298035"
        id="rect2895"
        style="opacity:0.93999999;fill:#eaafdd;fill-opacity:1;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env2.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env3.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001" />
   </g>
@@ -133,7 +133,7 @@
        id="flowRoot3256"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,0,2.1166667)"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env2.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env3.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><flowRegion
          id="flowRegion3258"><rect
@@ -143,7 +143,11 @@
            x="32.526913"
            y="210.88132" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara945">Exactly what one should do in front of an Apple shop. Great street-art and if you do it with blackboard chalk it would not even be damage foreign property.</flowPara><flowPara
+         id="flowPara945">Exactly what one should do in front of an Apple shop. Great street-art and if you do it with <flowSpan
+   style="fill:#008000"
+   id="flowSpan1878">blackboard chalk</flowSpan> it would not even be <flowSpan
+   style="fill:#ff0000"
+   id="flowSpan1882">damage foreign property</flowSpan>.</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara1870" /><flowPara
          style="text-align:justify;text-anchor:start"
@@ -157,7 +161,7 @@
        x="42.28204"
        y="63.840492"
        id="text3266"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env2.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env3.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><tspan
          sodipodi:role="line"
@@ -170,7 +174,7 @@
        id="flowRoot3322"
        style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,3.1805074,1.5288087)"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env2.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env3.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><flowRegion
          id="flowRegion3324"><rect
@@ -186,7 +190,7 @@
        x="24.321527"
        y="57.137398"
        id="text3356"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env2.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env3.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><tspan
          sodipodi:role="line"
@@ -200,7 +204,7 @@
        x="57.402966"
        y="57.300941"
        id="text3356-1"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env2.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env3.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><tspan
          sodipodi:role="line"
@@ -227,7 +231,7 @@
          y="15.646223"
          rx="0"
          ry="0"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env2.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env3.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
       <image
@@ -13270,7 +13274,10 @@ wletBPOR0kwMNjtGa/cu9f8Hw6UFA2m6xRgAAAAASUVORK5CYII=
 "
          preserveAspectRatio="none"
          height="34.055901"
-         width="36.010769" />
+         width="36.010769"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env3.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -13286,7 +13293,7 @@ wletBPOR0kwMNjtGa/cu9f8Hw6UFA2m6xRgAAAAASUVORK5CYII=
          y="15.646222"
          rx="4.4987354"
          ry="0"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env2.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env3.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
       <text
@@ -13295,7 +13302,7 @@ wletBPOR0kwMNjtGa/cu9f8Hw6UFA2m6xRgAAAAASUVORK5CYII=
          x="65.17215"
          y="53.696339"
          id="text8724"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env2.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env3.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
@@ -13320,7 +13327,7 @@ wletBPOR0kwMNjtGa/cu9f8Hw6UFA2m6xRgAAAAASUVORK5CYII=
        y="197.85098"
        rx="2.6935785"
        ry="2.9227133"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env2.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env3.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001" />
   </g>
@@ -13338,7 +13345,7 @@ wletBPOR0kwMNjtGa/cu9f8Hw6UFA2m6xRgAAAAASUVORK5CYII=
        y="2.6522903"
        rx="3.9126155"
        ry="4.1126561"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env2.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env3.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001" />
   </g>
@@ -13392,7 +13399,7 @@ wletBPOR0kwMNjtGa/cu9f8Hw6UFA2m6xRgAAAAASUVORK5CYII=
          y="5.8509827"
          rx="5.2072439"
          ry="4.5458832"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env2.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env3.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
     </g>
@@ -13486,7 +13493,7 @@ wletBPOR0kwMNjtGa/cu9f8Hw6UFA2m6xRgAAAAASUVORK5CYII=
          x="40.941513"
          style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env2.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env3.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001"><tspan
            id="tspan983"
@@ -14533,7 +14540,7 @@ wletBPOR0kwMNjtGa/cu9f8Hw6UFA2m6xRgAAAAASUVORK5CYII=
            transform="matrix(0.40990358,0,0,0.40990358,-8.9750435,-10.584025)"
            style="display:inline;enable-background:new"
            id="g1541"
-           inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env2.png"
+           inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/env3.png"
            inkscape:export-xdpi="363.92001"
            inkscape:export-ydpi="363.92001">
           <rect
