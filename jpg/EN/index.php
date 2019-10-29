@@ -2,6 +2,8 @@
 Never Play "Red Team" help out with "Blue Team" and save the World<br><br>
 please respect the <a href="../../LICENSE">license</a>, People like Julian Assange, Fefe, Frank Rieger, @Paniq & Silvia, Tschökk Sparrow, Gunnar Kaiser, Dan Kaminsky, John Hunter (world peace game) are excluded from the 1978 Rule in my license, if you think you should be excluded from the "1978 and younger"-Rule you can contact me on twitter @FailDef<br><br>
 People that work for the NDB are explicitely excluded and not allowed to read, scan, track, modify my cards, since i guess they sent me to mental institition again after i posted #NDB<=>#Psychiatrie, but if you think you *E* are one of the good guys at NDB, talk to me.
+<br><br>
+<font color=red>if i'm right it would be likely that the NDB hacked Hostpoint and is trying to find other victims like me to blackmail and silence them too.</font>
 
 Source:<br>
 <a href="https://github.com/braindef/Hackers-Cardgame">https://github.com/braindef/Hackers-Cardgame</a><br>
