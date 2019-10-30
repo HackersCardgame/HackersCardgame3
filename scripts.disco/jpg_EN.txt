@@ -1,11 +1,1 @@
 ../png/EN/t2.png
-../png/EN/t20.png
-../png/EN/t21.png
-../png/EN/t22.png
-../png/EN/t23.png
-../png/EN/t24.png
-../png/EN/t25.png
-../png/EN/t26.png
-../png/EN/t27.png
-../png/EN/t28.png
-../png/EN/t29.png
