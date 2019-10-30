@@ -1,1 +1,1 @@
-../png/EN/ibm1.png
+../png/EN/m15-mod2.png
