@@ -27,7 +27,7 @@ I guess this created <font color=yellow>avoidance behavior</font> that he does n
 but she did not answer. The last move they played against me was puting me again in a mental institution (m19 card),
 for erasing my brain, <font color=red>making me forget about him</font>, continuing <s>train</s> manipulate him.
 
-Sorry for that but it's not all my fault.
+<font size="6em"><b>Sorry for that but it's not all my fault.</b></font>
 
 but maybe i'm wrong that they would like to do evil things if you look at the last sentence of this article:
 <font size="4em">https://wowwiki.fandom.com/de/wiki/<font color=cyan>Nachtwache</font></font> but gamers should know about the <font color=cyan size="8em">technology cards!!!</font>
