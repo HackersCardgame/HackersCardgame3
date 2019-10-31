@@ -115,10 +115,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1519444"
-     inkscape:cx="167.95663"
+     inkscape:cx="139.84252"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="layer24"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -171,7 +171,7 @@
        y="197.85098"
        rx="3.5534737"
        ry="3.8487499"
-       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ma11.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a20.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001" />
   </g>
@@ -235,8 +235,8 @@
        xml:space="preserve"
        id="flowRoot3256"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0,2.6458334)"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/scg3.png"
+       transform="matrix(0.26458333,0,0,0.26458333,0,2.1166667)"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a20.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><flowRegion
          id="flowRegion3258"><rect
@@ -254,13 +254,19 @@
    style="fill:#ff0000"
    id="flowSpan3069">language professor</flowSpan>. It seems that satan took this algorithm and used it as filter algorithm that filters communication above a specific language level. For example for <flowSpan
    style="fill:#808000"
-   id="flowSpan3071">filtering communication over t1 or t12 card</flowSpan>. This would have the effect that especially intelligent people would be handicaped in the &quot;unseen university&quot; (Terry Pratchett) while the less educated people would have no problems to communicate with each other. Unsure if bug or feature (preventing m40 card). But in a fair world all or none should have that filter.</flowPara></flowRoot>    <text
+   id="flowSpan3071">filtering communication over t1 or t12 card</flowSpan>. This would have effect that especially intelligent people would be handicaped in &quot;unseen university&quot; (Terry Pratchett) while the less educated people would have no problems to communicate with each other. Unsure if bug or feature (preventing m40 card). But in a fair world all or none should have that filter. But it definitively <flowSpan
+   style="fill:#808000"
+   id="flowSpan3077">wastes our time</flowSpan> and makes us <flowSpan
+   style="fill:#008000"
+   id="flowSpan3075">crazy</flowSpan> and <flowSpan
+   style="fill:#008000"
+   id="flowSpan3073">low self-esteem</flowSpan>...</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"
        y="63.840492"
        id="text3266"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/scg3.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a20.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><tspan
          sodipodi:role="line"
@@ -273,7 +279,7 @@
        id="flowRoot3322"
        style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,3.1805074,1.5288087)"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/scg3.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a20.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><flowRegion
          id="flowRegion3324"><rect
@@ -289,7 +295,7 @@
        x="24.321527"
        y="57.137398"
        id="text3356"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/scg3.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a20.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><tspan
          sodipodi:role="line"
@@ -303,7 +309,7 @@
        x="57.402966"
        y="57.300941"
        id="text3356-1"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/scg3.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a20.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><tspan
          sodipodi:role="line"
@@ -596,7 +602,7 @@
          y="15.646223"
          rx="0"
          ry="0"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/scg3.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a20.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
       <image
@@ -7507,7 +7513,33 @@ AAAAAElFTkSuQmCC
 "
          preserveAspectRatio="none"
          height="38.375401"
-         width="62.889835" />
+         width="62.889835"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a20.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.86808932px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.32553348"
+         x="5.8940725"
+         y="51.991802"
+         id="text3081"><tspan
+           sodipodi:role="line"
+           id="tspan3079"
+           x="5.8940725"
+           y="51.991802"
+           style="fill:#ffff00;stroke-width:0.32553348">https://media.ccc.de/v/30C3_-_5377_-_de_-_saal_6_-_201312271245_-_uberwachen_und_sprache_-_josch</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.86808932px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.32553348"
+         x="-51.295757"
+         y="8.2143278"
+         id="text3081-6"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan3079-4"
+           x="-51.295757"
+           y="8.2143278"
+           style="fill:#ffff00;stroke-width:0.32553348">https://www.youtube.com/watch?v=ZG4FawUtYPA</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -7523,7 +7555,7 @@ AAAAAElFTkSuQmCC
          y="15.646222"
          rx="4.4987354"
          ry="0"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/scg3.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a20.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
       <text
@@ -7532,7 +7564,7 @@ AAAAAElFTkSuQmCC
          x="66.070168"
          y="52.675369"
          id="text8724"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/scg3.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a20.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
@@ -7557,7 +7589,7 @@ AAAAAElFTkSuQmCC
        y="197.85098"
        rx="2.6935785"
        ry="2.9227133"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/scg3.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a20.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001" />
   </g>
@@ -7575,7 +7607,7 @@ AAAAAElFTkSuQmCC
        y="2.6522903"
        rx="3.9126155"
        ry="4.1126561"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/scg3.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a20.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001" />
   </g>
@@ -7664,7 +7696,7 @@ AAAAAElFTkSuQmCC
          y="5.8509827"
          rx="5.2072439"
          ry="4.5458832"
-         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ma11.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a20.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
     </g>
@@ -7772,7 +7804,7 @@ AAAAAElFTkSuQmCC
          x="42.003956"
          y="10.330796"
          id="text17175"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/scg3.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a20.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
@@ -7791,7 +7823,7 @@ AAAAAElFTkSuQmCC
          x="41.662079"
          y="16.928087"
          id="text17175-4"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/scg3.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a20.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
@@ -9091,7 +9123,7 @@ AAAAAElFTkSuQmCC
            style="display:inline;enable-background:new"
            id="g4894"
            transform="matrix(0.36769388,0,0,0.36769388,-4.6093063,-5.0113273)"
-           inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/scg3.png"
+           inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a20.png"
            inkscape:export-xdpi="363.92001"
            inkscape:export-ydpi="363.92001">
           <g
@@ -9839,7 +9871,7 @@ AAAAAElFTkSuQmCC
            width="9.301053"
            id="rect917-6"
            style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-           inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/scg3.png"
+           inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a20.png"
            inkscape:export-xdpi="363.92001"
            inkscape:export-ydpi="363.92001" />
       </g>
