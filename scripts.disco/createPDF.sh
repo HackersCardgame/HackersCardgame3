@@ -63,6 +63,7 @@ for j in $(echo "./pdf_$1_$2.txt")
  echo -e "
 
           my cups-pdf printer is slow, so we wait here 5 Min
+	  or press CTRL-C and type mv ~/PDF/*.pdf ../pdf/$1/$2
 "
  sleep 300
 
