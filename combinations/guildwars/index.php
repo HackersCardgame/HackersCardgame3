@@ -16,7 +16,8 @@ After i found out, about the <font color=red>technology cards (t1, t2, ...)</fon
 beeing used to programm bad <font color=yellow>stimulus-response-habits</font> (t11 card or more likely t2 or t7 card).
 
 And then make the <font color=green>Kid</font> that plays the game <font color=red>kill an equal aged</font>. (= dt1 card). Of course a single kill
-in the game will not kill a human in the real world, otherweise gamers would have wiped out our planet a million times since there are billions of gamers with 10'000 game kills or more.
+in the game will not kill a human in the real world, otherweise gamers would have wiped out our planet
+a million times since there are billions of gamers with 10'000 game kills or more.
 Normally they switch between "<font color=green>this is only game</font>" and "<font color=yellow>this will have impact on the real world</font>".
 
 In a group they normally declare one kid (in this case me) to a "Rapist Terrorist" (m41 card) and make the others attack him / her (m37 card).
