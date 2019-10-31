@@ -3,6 +3,7 @@
 </head>
 <style>
 body {background-color: black;}
+h1 {color: white}
 </style>
 <body color=white>
 <h1>GuildWars, or general MMORPG</h1>
