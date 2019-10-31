@@ -18,7 +18,7 @@ And then make the <font color=green>Kid</font> that plays the game <font color=r
 
 In a group they normally declare one kid (in this case me) to a "Rapist Terrorist" (m41 card) and make the others attack him / her (m37 card). I tried to explain the problem to a friend (<font color=yellow size="6em">you</font>) but i guess <font color=red>they attacked him with a card that goes against his <b>sexual integrity</b></font> (and maybe co6 card). I guess this created <font color=yellow>avoidance behavior</font> that he does not listen to me. <s>They</s> I also asked his Sister to act, but she did not answer. The last move they played against me was puting me again in a mental institution (m19 card), to erasing my brain, <font color=red>making me forget about him</font>, continuing <s>train</s> manipulate him. Sorry for that but it's not all my fault.
 
-but maybe i'm wrong that they would like to do evil things if you look at the last sentence of this article: https://wowwiki.fandom.com/de/wiki/<font color=cyan>Nachtwache</font> but gamers should know about the technology cards!!!
+but maybe i'm wrong that they would like to do evil things if you look at the last sentence of this article: https://wowwiki.fandom.com/de/wiki/<font color=cyan>Nachtwache</font> but gamers should know about the <font color=cyan size="8em">technology cards!!!</font>
 </pre>
 <br>
 <br>
