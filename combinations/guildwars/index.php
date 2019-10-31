@@ -1,7 +1,10 @@
 <html>
+<head>
+<basefont color=white>
+</head>
 <body>
 <style>
-body {background-color: coral;}
+body {background-color: black;}
 </style>
 <h1>GuildWars, or general MMORPG</h1>
 Working through <a href="../../jpg/EN/">all the cards</a> may help to find out what went wrong.<br><br>
