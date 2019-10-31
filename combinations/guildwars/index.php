@@ -29,7 +29,8 @@ for erasing my brain, <font color=red>making me forget about him</font>, continu
 
 Sorry for that but it's not all my fault.
 
-but maybe i'm wrong that they would like to do evil things if you look at the last sentence of this article: https://wowwiki.fandom.com/de/wiki/<font color=cyan>Nachtwache</font> but gamers should know about the <font color=cyan size="8em">technology cards!!!</font>
+but maybe i'm wrong that they would like to do evil things if you look at the last sentence of this article:
+<font size="4em">https://wowwiki.fandom.com/de/wiki/<font color=cyan>Nachtwache</font></font> but gamers should know about the <font color=cyan size="8em">technology cards!!!</font>
 </pre>
 <br>
 <br>
