@@ -11,6 +11,8 @@ Source:<br>
 <a href="https://github.com/braindef/HackersCardgame3">https://github.com/braindef/HackersCardgame3</a><br>
 <a href="https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/">https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/</a>
 <br><br><a href="https://github.com/braindef/HackersCardgame3/tree/master/pdf/EN/A4">PRINTING TEMPLATES (PDF)</a>
+<br><br>
+Printable PDFs: <a href="../../pdf/EN/A4/">PRINTING TEMPLATES local(PDF)</a>
 
 <!-- and of course nobody would have the stupid idea to place microdots in such a repository https://en.wikipedia.org/wiki/Microdot-->
 
