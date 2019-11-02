@@ -1,5 +1,1 @@
-../png/EN/m7.png
-../png/EN/m70.png
-../png/EN/m71.png
-../png/EN/m72.png
-../png/EN/m73.png
+../png/EN/m74.png
