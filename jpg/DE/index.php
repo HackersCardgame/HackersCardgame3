@@ -4,11 +4,12 @@ please respect the <a href="../../LICENSE">license</a>, People like Julian Assan
 People that work for the NDB are explicitely excluded and not allowed to read, scan, track, modify my cards, since i guess they sent me to mental institition again after i posted #NDB<=>#Psychiatrie, but if you think you *E* are one of the good guys at NDB, talk to me.
 <br><br>
 <font color=red>if i'm right it would be likely that the NDB hacked Hostpoint and is trying to find other victims like me to blackmail and silence them too.</font>
-
+<br>
 Source:<br>
 <a href="https://github.com/braindef/HackersCardgame3">https://github.com/braindef/HackersCardgame3</a><br>
 <a href="https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/">https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/</a>
-<br><br><a href="https://github.com/braindef/HackersCardgame3/tree/master/pdf/EN/A4">PRINTING TEMPLATES (PDF)</a>
+<br><br>
+<a href="https://github.com/braindef/HackersCardgame3/tree/master/pdf/EN/A4">PRINTING TEMPLATES (PDF)</a>
 <br>
 <a href="../../pdf/EN/A4/">PRINTING TEMPLATES local(PDF)</a>
 <br><br>
