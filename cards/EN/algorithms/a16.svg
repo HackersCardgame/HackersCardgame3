@@ -109,7 +109,7 @@
      inkscape:cx="139.84252"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="layer24"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -310,6 +310,28 @@
          inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/a16.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="27.40074"
+         y="41.980072"
+         id="text12682"
+         transform="rotate(-15)"><tspan
+           sodipodi:role="line"
+           id="tspan12680"
+           x="27.40074"
+           y="41.980072"
+           style="text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332">After an interupted Suicide Death bot</tspan><tspan
+           sodipodi:role="line"
+           x="27.40074"
+           y="45.507851"
+           style="text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+           id="tspan12684">they can make you say everything</tspan><tspan
+           sodipodi:role="line"
+           x="27.40074"
+           y="49.035629"
+           style="text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+           id="tspan12686">or make you tweet everything</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
