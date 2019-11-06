@@ -4,9 +4,9 @@
 <head>
 <style>
 p { clear: both; }
-div {
-  border: 2em;
-  margin: 2em;
+div.cards {
+  text-align: justify;
+  padding: 2em;
 } 
 div.text {
   text-align: justify;
@@ -45,7 +45,7 @@ Source:<br>
     Your browser does not support the video tag or the file format of this video.
 </audio>
 </div>
-<div>
+<div class="cards">
 <br><br>
 <p>
    <?php
@@ -68,7 +68,7 @@ if (in_array($ext, $supported_file)) {
 
     echo '<div style="float:left;text-align:center;">';
     $parts = explode(".", $image);
-    //echo "<font color=green>" . $parts[0] . "</font>" . "<br>";
+    echo "<font color=green>" . $parts[0] . "</font>" . "<br>";
     echo '<a href="./'.$image .'" id="'.$parts[0].'"'.' target="_blank"><img width=200 src="'.$image .'" ></a><br>';
     echo '</div>
 ';
