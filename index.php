@@ -41,10 +41,10 @@ Source:<br>
 
 <br>
 <audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
-    <source src="SpaceTripExtended.mp3" type="audio/mp3" />
+    <source src="music/SpaceTripExtended.mp3" type="audio/mp3" />
     Your browser does not support the video tag or the file format of this video.
 </audio> <audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
-    <source src="landev_--_mind_sciences.mp3" type="audio/mp3" />
+    <source src="music/landev_--_mind_sciences.mp3" type="audio/mp3" />
     Your browser does not support the video tag or the file format of this video.
 </audio>
 </div>
