@@ -6,14 +6,14 @@
 p { clear: both; }
 div {
   border: 2em;
-  align: center;
+  margin: 2em;
 } 
 div.text {
   text-align: justify;
   padding: 2em;
 } 
 </style>
-<!-- thank "dear" 1960s paedos for activating CCS Suicide Death Bot against me-->
+<!-- "thank you" "dear" 1960s paedos for activating CCS Suicide Death Bot against me-->
 </head>
 <body>
 
