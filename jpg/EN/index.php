@@ -4,11 +4,14 @@
 <head>
 <style>
 p { clear: both; }
+div {
+  text-align: justify;
+} 
 </style>
 </head>
 <body>
 
-<div style="padding: 2em;">
+<div style="padding: 2em;text-align:justify;">
 <h1>Hackers Cardgame</h1>
 Never Play "Red Team" help out with "Blue Team" and save the World<br><br>
 please respect the <a href="../../LICENSE">license</a>, People like Julian Assange, Fefe, Frank Rieger, @Paniq & Silvia, Gunnar Kaiser, Dan Kaminsky, John Hunter, (world peace game), Richard Stallman, Linux Torvalds, Tschökk Sparrow &amp;&amp; Stefan Bader &amp; Co are excluded from the 1978 Rule in my license, and even if he passed away Joseph Weizenbaum would be excluded from the 1978 rule too.
