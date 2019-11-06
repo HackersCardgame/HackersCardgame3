@@ -6,6 +6,9 @@ People that work for the NDB are explicitely excluded and not allowed to read, s
 <br><br>
 <font color=red>if i'm right it would be likely that the NDB hacked Hostpoint and is trying to find other victims like me to blackmail and silence them too.</font>
 <br><br>
+I tried that i only take free images or cc0 licensed images, if you think there is something wrong that should be licesed please contact me on github or directly add an issue in the HackersCardgame3 Repository.
+<br><br>
+
 Source:<br>
 <a href="https://github.com/braindef/HackersCardgame3">https://github.com/braindef/HackersCardgame3</a><br>
 <a href="https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/">https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/</a>
