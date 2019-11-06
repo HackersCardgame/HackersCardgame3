@@ -8,10 +8,6 @@ div {
   text-align: justify;
   padding: 2em;
 } 
-div.center {
-  text-align: center;
-  padding: 0em;
-} 
 </style>
 </head>
 <body>
@@ -44,7 +40,7 @@ Source:<br>
     Your browser does not support the video tag or the file format of this video.
 </audio>
 </div>
-<div class="center">
+<div style="text-align:left;">
 <br><br>
 <p>
    <?php
