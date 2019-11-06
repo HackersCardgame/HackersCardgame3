@@ -4,6 +4,9 @@
 <head>
 <style>
 p { clear: both; }
+div {
+  text-align: justify;
+} 
 </style>
 </head>
 <body>
