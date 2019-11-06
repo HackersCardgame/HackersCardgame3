@@ -6,6 +6,11 @@
 p { clear: both; }
 div {
   text-align: justify;
+  padding: 2em;
+} 
+div.center {
+  text-align: center;
+  padding: 2em;
 } 
 </style>
 </head>
@@ -39,7 +44,7 @@ Source:<br>
     Your browser does not support the video tag or the file format of this video.
 </audio>
 </div>
-<div style="padding: 2em;"
+<div class="center">
 <br><br>
 <p>
    <?php
@@ -80,7 +85,7 @@ if (in_array($ext, $supported_file)) {
 </p>
 </div>
 <p>
-<div style="padding: 2em;">
+<div>
 Possibly you would get in serious trouble with those people, that abuses this technology if you would fork this repo *INSERT: marc is insane stimulus on t1 card* but if eg. 1000 *INSERT: "marc has delusions of grandeur"-stimulus on t1 card* would fork at the same time, they would possibly not have enough manpower to target all that forked it. Additionally I suggest that all people creates their own cards / deck / repo without using any content of my repository, it would spam the people abusing it *INSERT: <font color=red>against you!!!</font> (psychological warfare)* because they would have to keep eg 1000 people in check. Having different decks would make the people that abuses this sort of technolgoy to leak all they have *my insert: <font color=green>also psychological warfare :D</font>*
 
 if you are crazy enough to <font color=green>become a part of mind-control-hacking community</font> take at least 1 equal aged friend, never do such things allone, use as much different technologies as you can inkscape, illustrator, html5, demoscene videos, painted art, music ... maybe you have even better ideas...
