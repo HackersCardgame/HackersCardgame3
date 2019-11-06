@@ -4,9 +4,11 @@
 <head>
 <style>
 p { clear: both; }
+div {
+  padding: 2em;
+} 
 div.text {
   text-align: justify;
-  padding: 2em;
 } 
 </style>
 </head>
