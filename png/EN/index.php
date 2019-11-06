@@ -8,10 +8,10 @@ p { clear: both; }
 </head>
 <body>
 
-
+<div style="padding: 2em;">
 <h1>Hackers Cardgame</h1>
 Never Play "Red Team" help out with "Blue Team" and save the World<br><br>
-please respect the <a href="../../LICENSE">license</a>, People like Julian Assange, Fefe, Frank Rieger, @Paniq & Silvia, Gunnar Kaiser, Dan Kaminsky, John Hunter, (world peace game), Richard Stallman, Linux Torvalds, Tsch�kk Sparrow &amp;&amp; Stefan Bader &amp; Co are excluded from the 1978 Rule in my license, and even if he passed away Joseph Weizenbaum would be excluded from the 1978 rule too.
+please respect the <a href="../../LICENSE">license</a>, People like Julian Assange, Fefe, Frank Rieger, @Paniq & Silvia, Gunnar Kaiser, Dan Kaminsky, John Hunter, (world peace game), Richard Stallman, Linux Torvalds, Tschökk Sparrow &amp;&amp; Stefan Bader &amp; Co are excluded from the 1978 Rule in my license, and even if he passed away Joseph Weizenbaum would be excluded from the 1978 rule too.
 <br>if you think you should be excluded from the "1978 and younger"-Rule you can contact me on twitter @FailDef<br><br>
 People that work for the NDB are explicitely excluded and not allowed to read, scan, track, modify my cards, since i guess they sent me to mental institition again after i posted #NDB<=>#Psychiatrie, but if you think you *E* are one of the good guys at NDB, talk to me.
 <br><br>
@@ -35,7 +35,8 @@ Source:<br>
     <source src="SpaceTripExtended.mp3" type="audio/mp3" />
     Your browser does not support the video tag or the file format of this video.
 </audio>
-
+</div>
+<div style="padding: 2em;"
 <br><br>
 <p>
    <?php
@@ -74,8 +75,9 @@ if (in_array($ext, $supported_file)) {
 <br>
 <br>
 </p>
+</div>
 <p>
-<div style="padding: 1em;">
+<div style="padding: 2em;">
 Possibly you would get in serious trouble with those people, that abuses this technology if you would fork this repo *INSERT: marc is insane stimulus on t1 card* but if eg. 1000 *INSERT: "marc has delusions of grandeur"-stimulus on t1 card* would fork at the same time, they would possibly not have enough manpower to target all that forked it. Additionally I suggest that all people creates their own cards / deck / repo without using any content of my repository, it would spam the people abusing it *INSERT: <font color=red>against you!!!</font> (psychological warfare)* because they would have to keep eg 1000 people in check. Having different decks would make the people that abuses this sort of technolgoy to leak all they have *my insert: <font color=green>also psychological warfare :D</font>*
 
 if you are crazy enough to <font color=green>become a part of mind-control-hacking community</font> take at least 1 equal aged friend, never do such things allone, use as much different technologies as you can inkscape, illustrator, html5, demoscene videos, painted art, music ... maybe you have even better ideas...
