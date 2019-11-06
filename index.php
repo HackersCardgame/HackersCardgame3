@@ -43,7 +43,7 @@ Source:<br>
     Your browser does not support the video tag or the file format of this video.
 </audio>
 </div>
-<div style="text-align:left;">
+<div>
 <br><br>
 <p>
    <?php
