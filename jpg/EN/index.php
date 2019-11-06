@@ -46,7 +46,6 @@ Source:<br>
 </audio>
 </div>
 <div class="cards">
-<br><br>
 <p>
    <?php
 
