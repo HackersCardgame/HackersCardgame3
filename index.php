@@ -10,7 +10,7 @@ div {
 } 
 div.center {
   text-align: center;
-  padding: 2em;
+  padding: 0em;
 } 
 </style>
 </head>
