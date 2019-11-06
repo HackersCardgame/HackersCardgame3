@@ -56,6 +56,11 @@ Source:<br>
 </audio> <audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
     <source src="../../music/landev_jba.mp3" type="audio/mp3" />
     Your browser does not support the video tag or the file format of this video.
+</audio>
+</audio> <audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
+    <source src="../../music/landev_violent.mp3" type="audio/mp3" />
+    Your browser does not support the video tag or the file format of this video.
+</audio>
 </div>
 <div class="cards">
 <p>
