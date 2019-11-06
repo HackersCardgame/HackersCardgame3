@@ -4,11 +4,20 @@
 <head>
 <style>
 p { clear: both; }
+div.cards {
+  text-align: justify;
+  padding: 2em;
+} 
+div.text {
+  text-align: justify;
+  padding: 2em;
+} 
 </style>
+<!-- "thank you" "dear" 1960s paedos for activating CCS Suicide Death Bot against me-->
 </head>
 <body>
 
-<div style="padding: 2em;">
+<div class="text">
 <h1>Hackers Cardgame</h1>
 Never Play "Red Team" help out with "Blue Team" and save the World<br><br>
 please respect the <a href="../../LICENSE">license</a>, People like Julian Assange, Fefe, Frank Rieger, @Paniq & Silvia, Gunnar Kaiser, Dan Kaminsky, John Hunter, (world peace game), Richard Stallman, Linux Torvalds, Tschökk Sparrow &amp;&amp; Stefan Bader &amp; Co are excluded from the 1978 Rule in my license, and even if he passed away Joseph Weizenbaum would be excluded from the 1978 rule too.
@@ -32,12 +41,20 @@ Source:<br>
 
 <br>
 <audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
-    <source src="SpaceTripExtended.mp3" type="audio/mp3" />
+    <source src="../../music/SpaceTripExtended.mp3" type="audio/mp3" />
+    Your browser does not support the video tag or the file format of this video.
+</audio> <audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
+    <source src="../../music/landev_--_mind_sciences.mp3" type="audio/mp3" />
+    Your browser does not support the video tag or the file format of this video.
+</audio> <audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
+    <source src="../../music/landev_game.mp3" type="audio/mp3" />
+    Your browser does not support the video tag or the file format of this video.
+</audio> <audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
+    <source src="../../music/landev_horizon.mp3" type="audio/mp3" />
     Your browser does not support the video tag or the file format of this video.
 </audio>
 </div>
-<div style="padding: 2em;"
-<br><br>
+<div class="cards">
 <p>
    <?php
 
@@ -59,7 +76,7 @@ if (in_array($ext, $supported_file)) {
 
     echo '<div style="float:left;text-align:center;">';
     $parts = explode(".", $image);
-    //echo "<font color=green>" . $parts[0] . "</font>" . "<br>";
+    echo "<font color=green>" . $parts[0] . "</font>" . "<br>";
     echo '<a href="./'.$image .'" id="'.$parts[0].'"'.' target="_blank"><img width=200 src="'.$image .'" ></a><br>';
     echo '</div>
 ';
@@ -77,7 +94,7 @@ if (in_array($ext, $supported_file)) {
 </p>
 </div>
 <p>
-<div style="padding: 2em;">
+<div class="text">
 Possibly you would get in serious trouble with those people, that abuses this technology if you would fork this repo *INSERT: marc is insane stimulus on t1 card* but if eg. 1000 *INSERT: "marc has delusions of grandeur"-stimulus on t1 card* would fork at the same time, they would possibly not have enough manpower to target all that forked it. Additionally I suggest that all people creates their own cards / deck / repo without using any content of my repository, it would spam the people abusing it *INSERT: <font color=red>against you!!!</font> (psychological warfare)* because they would have to keep eg 1000 people in check. Having different decks would make the people that abuses this sort of technolgoy to leak all they have *my insert: <font color=green>also psychological warfare :D</font>*
 
 if you are crazy enough to <font color=green>become a part of mind-control-hacking community</font> take at least 1 equal aged friend, never do such things allone, use as much different technologies as you can inkscape, illustrator, html5, demoscene videos, painted art, music ... maybe you have even better ideas...
