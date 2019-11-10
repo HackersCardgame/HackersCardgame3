@@ -1,1 +1,2 @@
-../png/EN/m38.png
+../png/EN/dc1.png
+../png/EN/dc2.png
