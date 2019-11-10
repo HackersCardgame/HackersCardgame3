@@ -1,2 +1,1 @@
-../png/EN/dc1.png
-../png/EN/dc2.png
+../png/EN/dc4.png
