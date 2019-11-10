@@ -118,7 +118,7 @@
      inkscape:cx="139.84252"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="layer24"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -583,7 +583,7 @@
        id="layer24"
        inkscape:label="image">
       <rect
-         style="display:inline;opacity:1;fill:#2b2b2a;fill-opacity:1;stroke:none;stroke-width:3.20783567;stroke-miterlimit:4;stroke-dasharray:none"
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.20783567;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect15430"
          width="63.020744"
          height="37.789272"
@@ -596,7 +596,7 @@
          inkscape:export-ydpi="363.92001" />
       <image
          y="19.188507"
-         x="15.453776"
+         x="13.866278"
          id="image5096"
          xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAArwAAAIHCAYAAAB9t4/1AAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzsfXmcFcW1/7eq772zMZdZYAaGfZEdRVQwiqBR4q6JzxiNzxgjcUlMTH4xwRdN1Kd5LnlxidEX
