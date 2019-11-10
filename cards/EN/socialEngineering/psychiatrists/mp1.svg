@@ -117,11 +117,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1519444"
+     inkscape:zoom="2.1973016"
      inkscape:cx="139.84252"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="g29667"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -370,9 +370,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
          id="flowPara29153" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:justify;text-anchor:start;fill:#ff0000"
-         id="flowPara29155">Shrink, Sociopath, the movie obfuscates a lot in favour of bad shrinks</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:justify;text-anchor:start;fill:#ff0000"
-         id="flowPara9075" /><flowPara
+         id="flowPara9075">Shrink, Sociopath, the movie obfuscates a lot in favour of bad shrinks, possibly touring complete, killing him would not help</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
          id="flowPara31341" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
@@ -2945,7 +2943,10 @@
            style="display:inline;image-rendering:optimizeQuality"
            preserveAspectRatio="none"
            height="7.2288065"
-           width="5.9911895" />
+           width="5.9911895"
+           inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/mp1.png"
+           inkscape:export-xdpi="363.92001"
+           inkscape:export-ydpi="363.92001" />
       </g>
     </g>
   </g>
