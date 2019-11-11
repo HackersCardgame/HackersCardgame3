@@ -1,1 +1,2 @@
-../png/EN/mos3.png
+../png/EN/m42.jpg.png
+../png/EN/m42.png
