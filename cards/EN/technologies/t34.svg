@@ -114,17 +114,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1519444"
+     inkscape:zoom="1.54817"
      inkscape:cx="139.84252"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="layer24"
      showgrid="false"
-     inkscape:window-width="1920"
+     inkscape:window-width="960"
      inkscape:window-height="1016"
-     inkscape:window-x="0"
+     inkscape:window-x="960"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -14789,6 +14789,33 @@ hfz5wAAAAABJRU5ErkJggg==
          inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/t34.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.13541102px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="-30.531759"
+         y="42.036243"
+         id="text2787"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           id="tspan2785"
+           x="-30.531759"
+           y="42.036243"
+           style="fill:#ffffff;stroke-width:0.1;stroke:#ff0000;stroke-miterlimit:4;stroke-dasharray:none">Maybe though subject of</tspan><tspan
+           sodipodi:role="line"
+           x="-30.531759"
+           y="45.955505"
+           style="fill:#ffffff;stroke-width:0.1;stroke:#ff0000;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan2789">#EquationGroup Problem</tspan><tspan
+           sodipodi:role="line"
+           x="-30.531759"
+           y="49.874771"
+           style="fill:#ffffff;stroke-width:0.1;stroke:#ff0000;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan2795">       that i forgot about in</tspan><tspan
+           sodipodi:role="line"
+           x="-30.531759"
+           y="53.794033"
+           style="fill:#ffffff;stroke-width:0.1;stroke:#ff0000;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan2799">           mental institution</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
