@@ -171,8 +171,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="6.086618"
-     inkscape:cx="148.39108"
-     inkscape:cy="227.28864"
+     inkscape:cx="176.43876"
+     inkscape:cy="225.18803"
      inkscape:document-units="mm"
      inkscape:current-layer="layer24"
      showgrid="false"
@@ -299,7 +299,7 @@
            x="32.526913"
            y="210.88132" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara2563">Big System-Changes in little time seem to cause problems. For example if you would have mos2 / mos3 malware cards installed on the whole and one would just leak the whole blueprints how this system works, to stop it, it would drive the criminals run amok or suicide</flowPara><flowPara
+         id="flowPara2563">Big System-Changes in little time seem to cause problems. For example if you would have mos2 / mos3 malware cards installed on the whole and one would just leak the whole blueprints how this system works, to stop it, it would drive the criminals run amok or suicide. So do such changes slowly [dy/dt]. The area below the curve (Integral ∫) would still be the same, but the chance that people </flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara2589"></flowPara><flowPara
          style="text-align:justify;text-anchor:start"
@@ -376,6 +376,17 @@
          id="tspan2565"
          x="49.303276"
          y="32.742908"
+         style="stroke-width:0.26458332"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="50.532787"
+       y="49.303276"
+       id="text2612"><tspan
+         sodipodi:role="line"
+         id="tspan2610"
+         x="50.532787"
+         y="51.800282"
          style="stroke-width:0.26458332"></tspan></text>
   </g>
   <g
@@ -659,7 +670,7 @@
          width="63.020744"
          height="37.789272"
          x="5.4730911"
-         y="15.646223"
+         y="15.646222"
          rx="0"
          ry="0"
          inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m79.png"
@@ -690,35 +701,47 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="48.442623"
-         y="30.368851"
+         x="58.496799"
+         y="24.548012"
          id="text2571"><tspan
            sodipodi:role="line"
            id="tspan2569"
-           x="48.442623"
-           y="30.368851"
-           style="stroke-width:0.26458332;fill:#ff0000">dy</tspan><tspan
+           x="58.496799"
+           y="24.548012"
+           style="fill:#ff0000;stroke-width:0.26458332">dy</tspan><tspan
            sodipodi:role="line"
-           x="48.442623"
-           y="33.896629"
-           style="stroke-width:0.26458332;fill:#ff0000"
+           x="58.496799"
+           y="28.07579"
+           style="fill:#ff0000;stroke-width:0.26458332"
            id="tspan2573">dt</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 46.967213,31.367708 h 6.393442"
+         d="m 57.021386,25.546871 h 6.393442"
          id="path2575"
          inkscape:connector-curvature="0" />
       <path
-         style="display:inline;fill:none;stroke:#008000;stroke-width:0.23849601;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 13.478263,42.805687 c 7.742191,0.153523 8.864895,-1.679819 14.620018,-3.241367 6.386222,-1.732785 10.754502,-0.392465 18.119092,2.374265 5.343905,2.007598 7.526887,3.481609 13.628722,4.152989"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.23849601;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 13.478263,42.805687 c 7.742191,0.153523 8.864895,-1.679819 14.620018,-3.241367 6.386222,-1.732785 12.058592,1.042034 19.423182,3.808764 5.343905,2.007598 6.222797,2.04711 12.324632,2.71849"
          id="path1502-3"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cssc" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 17.213993,42.142843 55.163023,33.3185"
+         style="fill:none;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 12.041101,45.185721 54.032811,30.145213"
          id="path2608"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="50.778687"
+         y="49.66127"
+         id="text2616"><tspan
+           sodipodi:role="line"
+           id="tspan2614"
+           x="50.778687"
+           y="49.66127"
+           style="stroke-width:0.26458332">time (t)</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
