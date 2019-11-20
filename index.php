@@ -16,6 +16,12 @@ div.text {
 <!-- "thank you" "dear" 1960s paedos for activating CCS Suicide Death Bot against me-->
 </head>
 <body>
+<script>
+function myFunction() {
+        var card = window.location.hash.substr(1);      
+	document.getElementById(card).style.property = "border: 10px solid red;"
+}
+</script>
 
 <div class="text">
 <h1>Hackers Cardgame</h1>
