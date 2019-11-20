@@ -18,7 +18,8 @@ div.text {
 <body>
 <script>
 function myFunction() {
-        var card = window.location.hash.substr(1);      
+        console.log("test");
+	var card = window.location.hash.substr(1);      
 	document.getElementById(card).style.property = "border: 10px solid red;"
 }
 </script>
