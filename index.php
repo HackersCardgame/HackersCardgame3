@@ -88,8 +88,8 @@ $supported_file = array(
 $ext = strtolower(pathinfo($image, PATHINFO_EXTENSION));
 if (in_array($ext, $supported_file)) {
 
-    echo '<div style="float:left;text-align:center;">';
     $parts = explode(".", $image);
+    echo '<div id='.$parts[0].' style="float:left;text-align:center;">';
     echo "<font color=green>" . $parts[0] . "</font>" . "<br>";
     echo '<a href="./'.$image .'" id="'.$parts[0].'"'.' target="_blank"><img width=200 src="'.$image .'" ></a><br>';
     echo '</div>
