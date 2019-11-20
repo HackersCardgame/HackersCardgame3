@@ -22,6 +22,10 @@ function myFunction() {
 	var card = window.location.hash.substr(1);      
 	document.getElementById(card).style.property = "border: 10px solid red;"
 }
+
+document.addEventListener("DOMContentLoaded", function(event) {
+  myFunction();
+});
 </script>
 
 <div class="text">
