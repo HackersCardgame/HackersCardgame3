@@ -15,7 +15,7 @@ div.text {
 </style>
 <!-- "thank you" "dear" 1960s paedos for activating CCS Suicide Death Bot against me-->
 </head>
-<body>
+<body onhashchange="myFunction();">>
 <script>
 function myFunction() {
 	var card = window.location.hash.substr(1);
