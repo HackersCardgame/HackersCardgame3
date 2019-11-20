@@ -20,7 +20,10 @@ div.text {
 function myFunction() {
 	var allCards = document.getElementsByClassName("card");
 	for (i=0; i<allCards.length; i++)
+	{
 		allCards[i].style = "border: 10px solid white;float:left;text-align:center;";
+		console.log(i);
+	}	
 	var card = window.location.hash.substr(1);
         console.log(card);	
 	document.getElementById(card).style = "border: 10px solid red;float:left;text-align:center;";
