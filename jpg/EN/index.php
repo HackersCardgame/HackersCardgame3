@@ -23,9 +23,9 @@ function myFunction() {
 	document.getElementById(card).style = "border: 10px solid red;float:left;text-align:center;";
 }
 
-document.addEventListener("DOMContentLoaded", function(event) {
-  myFunction();
-});
+//document.addEventListener("DOMContentLoaded", function(event) {
+//  myFunction();
+//});
 </script>
 
 <div class="text">
