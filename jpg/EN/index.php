@@ -23,9 +23,9 @@ function myFunction() {
 	document.getElementById(card).style = "border: 10px solid red;float:left;text-align:center;";
 }
 
-//document.addEventListener("DOMContentLoaded", function(event) {
-//  myFunction();
-//});
+document.addEventListener("DOMContentLoaded", function(event) {
+  myFunction();
+});
 </script>
 
 <div class="text">
@@ -94,7 +94,7 @@ $ext = strtolower(pathinfo($image, PATHINFO_EXTENSION));
 if (in_array($ext, $supported_file)) {
 
     $parts = explode(".", $image);
-    echo '<div id="'.$parts[0].'" style="float:left;text-align:center;">';
+    echo '<div id="'.$parts[0].'" style="border: 10px solid white;float:left;text-align:center;">';
     echo "<font color=green>" . $parts[0] . "</font>" . "<br>";
     echo '<a href="./'.$image .'" id="'.$parts[0].'"'.' target="_blank"><img width=200 src="'.$image .'" ></a><br>';
     echo '</div>
