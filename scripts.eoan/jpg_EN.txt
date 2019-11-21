@@ -1,1 +1,1 @@
-../png/EN/mos5.png
+../png/EN/m50.png
