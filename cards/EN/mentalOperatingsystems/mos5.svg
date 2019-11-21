@@ -118,7 +118,7 @@
      inkscape:cx="139.84252"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="layer24"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -594,21 +594,6 @@
          inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/mos5.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-6.4688439"
-         y="78.459244"
-         id="text582-3"
-         transform="rotate(-55.337688)"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/mos5.png"
-         inkscape:export-xdpi="363.92001"
-         inkscape:export-ydpi="363.92001"><tspan
-           sodipodi:role="line"
-           id="tspan580-6"
-           x="-6.4688439"
-           y="78.459244"
-           style="fill:#ffffff;stroke-width:0.26458332">system</tspan></text>
       <image
          y="9.1446619"
          x="5.5472903"
@@ -10567,6 +10552,21 @@ AAAASUVORK5CYII=
          inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/mos5.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-6.4688439"
+         y="78.459244"
+         id="text582-3"
+         transform="rotate(-55.337688)"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/mos5.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001"><tspan
+           sodipodi:role="line"
+           id="tspan580-6"
+           x="-6.4688439"
+           y="78.459244"
+           style="fill:#ffffff;stroke-width:0.26458332">system</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
