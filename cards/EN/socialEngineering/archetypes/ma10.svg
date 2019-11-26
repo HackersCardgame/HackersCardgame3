@@ -114,11 +114,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1519444"
-     inkscape:cx="140.77191"
+     inkscape:zoom="7.4981813"
+     inkscape:cx="116.49936"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="layer25"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -133,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -313,7 +313,7 @@
          id="tspan1236"
          x="35.040981"
          y="50.693729"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -497,7 +497,7 @@
            id="tspan1322"
            x="59.770809"
            y="49.59539"
-           style="stroke-width:0.26458332"></tspan></text>
+           style="stroke-width:0.26458332" /></text>
       <image
          y="13.401215"
          x="10.355844"
@@ -542,6 +542,17 @@
            x="65.850769"
            y="53.413074"
            style="text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">ma10</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666727px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06;stroke-miterlimit:4;stroke-dasharray:none"
+         x="9.8077641"
+         y="54.259716"
+         id="text560"><tspan
+           sodipodi:role="line"
+           id="tspan558"
+           x="9.8077641"
+           y="54.259716"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.06;stroke-miterlimit:4;stroke-dasharray:none">https://0x8.ch/HackersCardgame3</tspan></text>
     </g>
   </g>
   <g
