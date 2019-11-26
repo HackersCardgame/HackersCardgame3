@@ -28,6 +28,7 @@ counter=0
 for i in $(cat ./PNGs.txt)
   do
   let counter=counter+1
+  echo $counter
   /usr/bin/inkscape $i &
   sleep 3
   xdotool key Ctrl+Alt+a
