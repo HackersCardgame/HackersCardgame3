@@ -2,6 +2,7 @@
 ../cards/EN/hacking/concepts/co6.svg
 ../cards/EN/hacking/concepts/co7.svg
 ../cards/EN/hacking/concepts/co8.svg
+../cards/EN/hacking/concepts/co12.svg
 ../cards/EN/hacking/concepts/co10.svg
 ../cards/EN/hacking/concepts/co9.svg
 ../cards/EN/hacking/concepts/co11.svg
@@ -9,6 +10,7 @@
 ../cards/EN/hacking/concepts/c09.svg
 ../cards/EN/hacking/concepts/co2.svg
 ../cards/EN/hacking/concepts/co5.svg
+../cards/EN/hacking/concepts/c12.svg
 ../cards/EN/hacking/concepts/co3.svg
 ../cards/EN/hacking/question/q1.svg
 ../cards/EN/hacking/cpu/cpu1.svg
@@ -34,12 +36,17 @@
 ../cards/EN/methods/m65.svg
 ../cards/EN/methods/m10.svg
 ../cards/EN/methods/m38.svg
+../cards/EN/methods/m81.svg
 ../cards/EN/methods/m17.svg
 ../cards/EN/methods/m15.svg
+../cards/EN/methods/m91.svg
 ../cards/EN/methods/m26.svg
 ../cards/EN/methods/m59.svg
+../cards/EN/methods/m87.svg
 ../cards/EN/methods/m18.svg
 ../cards/EN/methods/m12.svg
+../cards/EN/methods/m86.svg
+../cards/EN/methods/m85.svg
 ../cards/EN/methods/m70.svg
 ../cards/EN/methods/m68.svg
 ../cards/EN/methods/m72.svg
@@ -54,9 +61,11 @@
 ../cards/EN/methods/m51.svg
 ../cards/EN/methods/m44.svg
 ../cards/EN/methods/m15-mod2.svg
+../cards/EN/methods/m88.svg
 ../cards/EN/methods/t61.svg
 ../cards/EN/methods/m45.svg
 ../cards/EN/methods/m21.svg
+../cards/EN/methods/m89.svg
 ../cards/EN/methods/m46.svg
 ../cards/EN/methods/m35.svg
 ../cards/EN/methods/m53.svg
@@ -64,6 +73,7 @@
 ../cards/EN/methods/m47.svg
 ../cards/EN/methods/m9.svg
 ../cards/EN/methods/m20.svg
+../cards/EN/methods/m80.svg
 ../cards/EN/methods/m11.svg
 ../cards/EN/methods/m1.svg
 ../cards/EN/methods/m5.svg
@@ -77,6 +87,7 @@
 ../cards/EN/methods/m19.svg
 ../cards/EN/methods/m52.svg
 ../cards/EN/methods/m40.svg
+../cards/EN/methods/m82.svg
 ../cards/EN/methods/m14.svg
 ../cards/EN/methods/m71.svg
 ../cards/EN/methods/m79.svg
@@ -84,6 +95,9 @@
 ../cards/EN/methods/m76.svg
 ../cards/EN/methods/m24.svg
 ../cards/EN/methods/m55.svg
+../cards/EN/methods/m93.svg
+../cards/EN/methods/m84.svg
+../cards/EN/methods/m83.svg
 ../cards/EN/methods/m2.svg
 ../cards/EN/methods/m22.svg
 ../cards/EN/methods/m30.svg
@@ -94,6 +108,7 @@
 ../cards/EN/methods/m4.svg
 ../cards/EN/methods/m73.svg
 ../cards/EN/methods/m27.svg
+../cards/EN/methods/m92.svg
 ../cards/EN/methods/m60.svg
 ../cards/EN/methods/m29.svg
 ../cards/EN/methods/m62.svg
@@ -105,6 +120,7 @@
 ../cards/EN/methods/m63.svg
 ../cards/EN/methods/m54.svg
 ../cards/EN/methods/m16.svg
+../cards/EN/methods/m90.svg
 ../cards/EN/methods/m3.svg
 ../cards/EN/methods/m13.svg
 ../cards/EN/medicine/biology/bio1.svg
@@ -115,6 +131,7 @@
 ../cards/EN/medicine/eye/eye1.svg
 ../cards/EN/medicine/endocrinology/endo1.svg
 ../cards/EN/mentalOperatingsystems/mos3.svg
+../cards/EN/mentalOperatingsystems/mos5.svg
 ../cards/EN/mentalOperatingsystems/mos2.svg
 ../cards/EN/mentalOperatingsystems/mos1.svg
 ../cards/EN/mentalOperatingsystems/mos4.svg
@@ -139,6 +156,8 @@
 ../cards/EN/socialEngineering/archetypes/ja6.svg
 ../cards/EN/socialEngineering/archetypes/ma9.svg
 ../cards/EN/socialEngineering/archetypes/ra2.svg
+../cards/EN/socialEngineering/archetypes/scg5.svg
+../cards/EN/socialEngineering/archetypes/ma10.svg
 ../cards/EN/socialEngineering/archetypes/ma7.svg
 ../cards/EN/socialEngineering/archetypes/ra1.svg
 ../cards/EN/socialEngineering/archetypes/scg4.svg
@@ -158,7 +177,6 @@
 ../cards/EN/socialEngineering/archetypes/ra3.svg
 ../cards/EN/socialEngineering/archetypes/ma8.svg
 ../cards/EN/socialEngineering/archetypes/ra4.svg
-../cards/EN/socialEngineering/archetypes/ha1.svp.svg
 ../cards/EN/socialEngineering/archetypes/g4.svg
 ../cards/EN/socialEngineering/archetypes/ma1.svg
 ../cards/EN/socialEngineering/archetypes/ma11.svg
@@ -189,6 +207,7 @@
 ../cards/EN/technologies/t27.svg
 ../cards/EN/technologies/t18.svg
 ../cards/EN/technologies/t28.svg
+../cards/EN/technologies/t34.svg
 ../cards/EN/technologies/t5.svg
 ../cards/EN/technologies/t3.svg
 ../cards/EN/technologies/t13.svg
