@@ -1,1 +1,1 @@
-../png/EN/m45.png
+../png/EN/t32.png
