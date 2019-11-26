@@ -29,6 +29,7 @@ cp ../cards/template/templateA4.svg ../assembled/$1/A4/
  for i in $(cat ./A4_$1.txt)
   do
    let counter=counter+1
+   echo $counter
    if (( $counter % 8 == 1 ))
    then 
      inkscape ../assembled/$1/A4/templateA4.svg &
