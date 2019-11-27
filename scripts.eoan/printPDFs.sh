@@ -26,19 +26,18 @@ for j in $(echo "./pdf_$1_$2.txt")
  echo j: $j
  for i in $(cat $j)
   do
-  echo i: $i
-
+   let counter=counter+1
+   echo i: $i
    xdg-open $i &
-
    sleep 10
    xdotool key ctrl+p
    sleep 1
    xdotool key KP_Enter
    sleep 10
    xdotool key alt+F4
-
-   echo printed $i $counter
-
+   echo --------------------------------------------------------------------------------
+   echo printed $i
+   echo counter: $counter
   done
 done
-
+echo ================================================================================
