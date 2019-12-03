@@ -278,6 +278,21 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.4,0,0,-0.4,-4,0)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2905-9-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2903-1-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -478,7 +493,7 @@
          x="24.321527"
          y="57.137398"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.26458332"
-         id="tspan3376">xxxxx</tspan></text>
+         id="tspan3376">Satan</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.46944451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1302,7 +1317,7 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.33013964px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29796913"
-         x="36.509789"
+         x="51.326469"
          y="42.819584"
          id="text2610"
          inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
@@ -1310,9 +1325,9 @@
          inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
            id="tspan2608"
-           x="36.509789"
+           x="51.326469"
            y="42.819584"
-           style="stroke-width:0.29796913">Daughter</tspan></text>
+           style="stroke-width:0.29796913">Daughter1</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.33013964px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29796913"
@@ -1384,21 +1399,53 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.33013988px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29796913"
-         x="7.9084182"
-         y="48.566322"
+         x="12.670915"
+         y="50.682991"
          id="text2614-1"
          inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
            id="tspan2612-8"
-           x="7.9084182"
-           y="48.566322"
+           x="12.670915"
+           y="50.682991"
            style="stroke-width:0.29796913">Son2</tspan></text>
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:0.29796913px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2905-6)"
          d="m 25.794996,42.841113 -8.769095,4.149701"
          id="path2882-5-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
+      <circle
+         style="display:inline;opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.11261827;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path2566-6-7-0"
+         cx="60.417435"
+         cy="47.613949"
+         r="1.1077206"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.33013988px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29796913"
+         x="46.705685"
+         y="49.315117"
+         id="text2610-2"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001"><tspan
+           sodipodi:role="line"
+           id="tspan2608-3"
+           x="46.705685"
+           y="49.315117"
+           style="stroke-width:0.29796913">Daughter2</tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.29796913px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2905-9-9)"
+         d="m 50.225941,42.685353 8.769094,4.1497"
+         id="path2882-5-2-7"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc"
          inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
