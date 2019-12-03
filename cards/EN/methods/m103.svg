@@ -21,6 +21,48 @@
   <defs
      id="defs2">
     <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker2905"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path2903"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker2901"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path2899"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path2627"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0.0"
@@ -171,10 +213,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1519444"
-     inkscape:cx="111.72841"
+     inkscape:cx="139.84252"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="layer25"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -302,9 +344,13 @@
            x="32.526913"
            y="210.88132" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara1556">top most, geld = macht = legitimation (statt moral)</flowPara><flowPara
+         id="flowPara1556">Sons have often problems with their fathers. Fathers often bully their sons, they abuse their sons, they torture their sons, they attack their sons (no matter if physically or verbally) After a while the son is old enough to defend, the justice system is norally not very interested in *Pfisterer judging* *FU*</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara2556">transitive relation</flowPara><flowPara
+         id="flowPara2955"></flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara2957">top most, geld = macht = legitimation (statt moral)</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara2556">transitive relation (Money beats m72 Card) </flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara2558">misshandelt / peinigt, / schiesst zusammen / peisakt</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
@@ -741,6 +787,61 @@
            x="17.336065"
            y="41.595364"
            style="stroke-width:0.26458332" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36089474"
+         x="45.308331"
+         y="28.452549"
+         id="text2909"><tspan
+           sodipodi:role="line"
+           id="tspan2907"
+           x="45.308331"
+           y="28.452549"
+           style="stroke-width:0.36089474">aRc</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36089474"
+         x="45.140621"
+         y="30.90527"
+         id="text2913"><tspan
+           sodipodi:role="line"
+           id="tspan2911"
+           x="45.140621"
+           y="30.90527"
+           style="stroke-width:0.36089474">R = to oppress</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36089474"
+         x="20.554913"
+         y="23.073235"
+         id="text2917"><tspan
+           sodipodi:role="line"
+           id="tspan2915"
+           x="20.554913"
+           y="23.073235"
+           style="stroke-width:0.36089474">Legitimation</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36089474"
+         x="18.833824"
+         y="40.254566"
+         id="text2610-3"><tspan
+           sodipodi:role="line"
+           id="tspan2608-5"
+           x="18.833824"
+           y="40.254566"
+           style="stroke-width:0.36089474">father</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36089474"
+         x="33.411198"
+         y="34.393707"
+         id="text2610-3-6"><tspan
+           sodipodi:role="line"
+           id="tspan2608-5-2"
+           x="33.411198"
+           y="34.393707"
+           style="stroke-width:0.36089474">chief</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -772,7 +873,7 @@
            id="tspan8722"
            x="65.344055"
            y="53.516613"
-           style="text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">m102</tspan></text>
+           style="text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">m103</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1029,7 +1130,7 @@
        inkscape:label="headerTextSans">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:5.29166651px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3224555"
+         style="font-style:normal;font-weight:normal;font-size:4.23333333px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3224555"
          x="42.003956"
          y="11.389129"
          id="text17175"
@@ -1040,12 +1141,87 @@
            x="42.003956"
            y="11.389129"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.3224555"
-           id="tspan17485">Transitivity</tspan><tspan
+           id="tspan17485">Transitive relation</tspan><tspan
            sodipodi:role="line"
            x="42.003956"
-           y="16.680794"
+           y="16.680796"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.3224555"
            id="tspan2554">(mathematics)</tspan></text>
+      <circle
+         style="opacity:1;fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.13640118;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path2566"
+         cx="42.807476"
+         cy="33.901463"
+         r="1.3416508" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.84954429px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36089474"
+         x="39.131798"
+         y="23.559566"
+         id="text2570"><tspan
+           sodipodi:role="line"
+           id="tspan2568"
+           x="39.131798"
+           y="23.559566"
+           style="stroke-width:0.36089474">$$$</tspan></text>
+      <circle
+         style="display:inline;opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.13640118;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path2566-3"
+         cx="29.456556"
+         cy="40.084152"
+         r="1.3416508" />
+      <circle
+         style="display:inline;opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.13640118;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path2566-6"
+         cx="15.831261"
+         cy="46.726009"
+         r="1.3416508" />
+      <circle
+         style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.13640118;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path2566-6-7"
+         cx="42.958153"
+         cy="46.726009"
+         r="1.3416508" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36089474"
+         x="27.63257"
+         y="47.504601"
+         id="text2610"><tspan
+           sodipodi:role="line"
+           id="tspan2608"
+           x="27.63257"
+           y="47.504601"
+           style="stroke-width:0.36089474">Daughter</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36089474"
+         x="8.5567331"
+         y="47.753338"
+         id="text2614"><tspan
+           sodipodi:role="line"
+           id="tspan2612"
+           x="8.5567331"
+           y="47.753338"
+           style="stroke-width:0.36089474">Son</tspan></text>
+      <path
+         style="fill:#008000;stroke:#000000;stroke-width:0.3614631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+         d="m 42.807475,25.142278 v 7.233765"
+         id="path2616"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.36089474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2901)"
+         d="M 41.591605,34.472372 30.97064,39.498413"
+         id="path2882"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.36089474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2905)"
+         d="M 28.297862,40.819071 17.676896,45.845112"
+         id="path2882-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
     </g>
     <g
        inkscape:groupmode="layer"
