@@ -25,6 +25,20 @@
        orient="auto"
        refY="0.0"
        refX="0.0"
+       id="marker3080"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path3078"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
        id="marker2905"
        style="overflow:visible;"
        inkscape:isstock="true">
@@ -364,7 +378,7 @@
        y="197.85098"
        rx="3.5534737"
        ry="3.8487499"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001" />
   </g>
@@ -394,27 +408,31 @@
        id="flowRoot3256"
        style="font-style:normal;font-weight:normal;font-size:6.93339777px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,0,2.6458334)"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><flowRegion
          id="flowRegion3258"><rect
            id="rect3260"
-           width="214.25336"
-           height="152.02795"
+           width="214.02101"
+           height="217.0854"
            x="32.526913"
            y="210.88132" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara1556">Sons have often problems with their fathers. Fathers often bully their sons, they abuse their sons, they torture their sons, they attack their sons (no matter if physically or verbally) After a while the son is old enough to defend himself, the justice system is norally not very interested in this things, but this causes the sons to become evil, attacking people, problem ins sytem einspeisen</flowPara><flowPara
+         id="flowPara2957">Sons have often problems with their fathers. Fathers often <flowSpan
+   style="fill:#ff0000"
+   id="flowSpan3082">bully their sons</flowSpan>, they abuse their sons, they torture their sons, they attack their sons (no matter if physically or verbally) After a while the son is old enough to defend himself, the justice system is norally not very interested in this things, but this causes the <flowSpan
+   style="fill:#ff0000"
+   id="flowSpan3084">sons to become evil</flowSpan>, maybe <flowSpan
+   style="fill:#ff0000"
+   id="flowSpan3086">learned this behavior from their father</flowSpan>, and are doing the same to younger people because they learned that it is &quot;legitimate&quot; to do this. In some cases then the father would punish the oldest son (son1) even more because he does the same to the younger son (son2), unsure if just reason to <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000"
+   id="flowSpan3088">punish a weaker like the chief</flowSpan><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000"
+   id="flowSpan3094"> does</flowSpan> or really wants to protect the youngest. (Bigger Domain Model: Money beats m72 Card, m72 card beats unfortunately m24 card)</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara2955"></flowPara><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara2957">top most, geld = macht = legitimation (statt moral)</flowPara><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara2556">transitive relation (Money beats m72 Card) </flowPara><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara2558">misshandelt / peinigt, / schiesst zusammen / peisakt</flowPara><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara2560">untergeordnete, verhaltensmuster wird dann als introjektoion allenfalls auch von fäter auf die söhne übertragen (auch m102 karte)</flowPara><flowPara
+         id="flowPara2560">This behavior (psychology: introjection) then would be the normal case and would feed problems into the wohle social systems (auch m102 karte) and <flowSpan
+   style="fill:#ff0000"
+   id="flowSpan3092">finally hits also daughters</flowSpan></flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara2562" /><flowPara
          style="text-align:justify;text-anchor:start"
@@ -424,7 +442,7 @@
        x="42.28204"
        y="63.840492"
        id="text3266"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><tspan
          sodipodi:role="line"
@@ -437,7 +455,7 @@
        id="flowRoot3322"
        style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,3.1805074,1.5288087)"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><flowRegion
          id="flowRegion3324"><rect
@@ -453,7 +471,7 @@
        x="24.321527"
        y="57.137398"
        id="text3356"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><tspan
          sodipodi:role="line"
@@ -467,7 +485,7 @@
        x="57.402966"
        y="57.300941"
        id="text3356-1"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><tspan
          sodipodi:role="line"
@@ -481,7 +499,7 @@
        x="49.303276"
        y="30.245903"
        id="text2567"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><tspan
          sodipodi:role="line"
@@ -495,7 +513,7 @@
        x="50.532787"
        y="49.303276"
        id="text2612"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><tspan
          sodipodi:role="line"
@@ -509,7 +527,7 @@
        x="15.737705"
        y="38.606556"
        id="text2518"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><tspan
          sodipodi:role="line"
@@ -523,7 +541,7 @@
        x="30.825687"
        y="12.161697"
        id="text15188"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><tspan
          sodipodi:role="line"
@@ -816,7 +834,7 @@
          y="15.646222"
          rx="0"
          ry="0"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
       <text
@@ -825,7 +843,7 @@
          x="17.182377"
          y="29.846313"
          id="text2483"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
@@ -839,7 +857,7 @@
          x="17.336065"
          y="39.098358"
          id="text2522"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
@@ -852,7 +870,10 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.03887224px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29796913"
          x="51.103603"
          y="27.089449"
-         id="text2909"><tspan
+         id="text2909"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
            id="tspan2907"
            x="51.103603"
@@ -863,7 +884,10 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.03887224px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29796913"
          x="50.965137"
          y="29.114513"
-         id="text2913"><tspan
+         id="text2913"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
            id="tspan2911"
            x="50.965137"
@@ -874,7 +898,10 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.03887224px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29796913"
          x="30.666193"
          y="22.648071"
-         id="text2917"><tspan
+         id="text2917"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
            id="tspan2915"
            x="30.666193"
@@ -885,7 +912,10 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.33013964px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29796913"
          x="29.245193"
          y="36.833668"
-         id="text2610-3"><tspan
+         id="text2610-3"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
            id="tspan2608-5"
            x="29.245193"
@@ -896,12 +926,24 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.33013964px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29796913"
          x="41.280853"
          y="31.994707"
-         id="text2610-3-6"><tspan
+         id="text2610-3-6"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
            id="tspan2608-5-2"
            x="41.280853"
            y="31.994707"
            style="stroke-width:0.29796913">chief</tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3080)"
+         d="m 27.448769,43.002051 c 8.031112,6.267428 14.422892,5.074054 20.65574,0.06147"
+         id="path3061"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -917,7 +959,7 @@
          y="15.646222"
          rx="4.4987354"
          ry="0"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
       <text
@@ -926,7 +968,7 @@
          x="65.344055"
          y="53.516613"
          id="text8724"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
@@ -940,7 +982,7 @@
          x="35.230572"
          y="78.78981"
          id="text2700"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
@@ -954,7 +996,7 @@
          x="9.8077641"
          y="54.259716"
          id="text560"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
@@ -979,7 +1021,7 @@
        y="197.85098"
        rx="2.6935785"
        ry="2.9227133"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001" />
   </g>
@@ -997,7 +1039,7 @@
        y="2.6522903"
        rx="3.9126155"
        ry="4.1126561"
-       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001" />
   </g>
@@ -1068,7 +1110,7 @@
          width="62.100834"
          id="rect3069"
          style="fill:#00aa88;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
     </g>
@@ -1194,7 +1236,7 @@
          x="42.003956"
          y="11.389129"
          id="text17175"
-         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
@@ -1212,13 +1254,19 @@
          id="path2566"
          cx="49.038799"
          cy="31.588289"
-         r="1.1077206" />
+         r="1.1077206"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17833781px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29796913"
          x="46.004013"
          y="23.049606"
-         id="text2570"><tspan
+         id="text2570"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
            id="tspan2568"
            x="46.004013"
@@ -1229,25 +1277,37 @@
          id="path2566-3"
          cx="38.015743"
          cy="36.692966"
-         r="1.1077206" />
+         r="1.1077206"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
       <circle
          style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.11261827;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path2566-6"
          cx="26.766153"
          cy="42.17675"
-         r="1.1077206" />
+         r="1.1077206"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
       <circle
          style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.11261827;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path2566-6-7"
          cx="49.163204"
          cy="42.17675"
-         r="1.1077206" />
+         r="1.1077206"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.33013964px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29796913"
          x="36.509789"
          y="42.819584"
-         id="text2610"><tspan
+         id="text2610"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
            id="tspan2608"
            x="36.509789"
@@ -1256,67 +1316,94 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.33013964px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29796913"
-         x="20.760002"
-         y="43.024952"
-         id="text2614"><tspan
+         x="19.172501"
+         y="43.024956"
+         id="text2614"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
            id="tspan2612"
-           x="20.760002"
-           y="43.024952"
-           style="stroke-width:0.29796913">Son</tspan></text>
+           x="19.172501"
+           y="43.024956"
+           style="stroke-width:0.29796913">Son1</tspan></text>
       <path
          style="fill:#000000;stroke:#000000;stroke-width:0.2984384;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
          d="m 49.038794,24.356357 v 5.972486"
          id="path2616"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.29796913px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2901)"
          d="m 48.034923,32.059656 -8.769093,4.1497"
          id="path2882"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:0.29796913px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2905)"
          d="m 37.059077,37.299744 -8.769094,4.149701"
          id="path2882-5"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:0.29796913px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2905-9)"
          d="m 38.971708,37.248158 8.769094,4.1497"
          id="path2882-5-2"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
       <path
          style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.2984384;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-7)"
          d="m 51.415747,30.103285 h 5.972485"
          id="path2616-9"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
       <circle
-         style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.11261827;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.11261827;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path2566-6-6"
          cx="15.502057"
          cy="47.718121"
-         r="1.1077206" />
+         r="1.1077206"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.33013988px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29796913"
-         x="9.4959173"
+         x="7.9084182"
          y="48.566322"
-         id="text2614-1"><tspan
+         id="text2614-1"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
            id="tspan2612-8"
-           x="9.4959173"
+           x="7.9084182"
            y="48.566322"
-           style="stroke-width:0.29796913">Son</tspan></text>
+           style="stroke-width:0.29796913">Son2</tspan></text>
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:0.29796913px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2905-6)"
          d="m 25.794996,42.841113 -8.769095,4.149701"
          id="path2882-5-7"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -2609,7 +2696,7 @@
            style="display:inline;enable-background:new"
            id="g4894"
            transform="matrix(0.36769388,0,0,0.36769388,-4.6093063,-5.0113273)"
-           inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+           inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
            inkscape:export-xdpi="363.92001"
            inkscape:export-ydpi="363.92001">
           <g
@@ -2708,7 +2795,7 @@
         <g
            id="g2276"
            transform="translate(0.70929527,21.932335)"
-           inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+           inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
            inkscape:export-xdpi="363.92001"
            inkscape:export-ydpi="363.92001">
           <rect
@@ -3360,7 +3447,7 @@
            width="9.301053"
            id="rect917-6"
            style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-           inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m102.png"
+           inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m103.png"
            inkscape:export-xdpi="363.92001"
            inkscape:export-ydpi="363.92001" />
       </g>
