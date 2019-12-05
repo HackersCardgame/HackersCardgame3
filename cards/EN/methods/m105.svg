@@ -21,6 +21,20 @@
   <defs
      id="defs2">
     <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path2592"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#808000;stroke-width:1pt;stroke-opacity:1;fill:#808000;fill-opacity:1"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow1Sstart"
        orient="auto"
        refY="0.0"
@@ -500,6 +514,36 @@
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2592-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#808000;fill-opacity:1;fill-rule:evenodd;stroke:#808000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-1-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2592-4-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#808000;fill-opacity:1;fill-rule:evenodd;stroke:#808000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -508,11 +552,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.1357707"
-     inkscape:cx="109.26594"
-     inkscape:cy="267.27389"
+     inkscape:zoom="2.1519444"
+     inkscape:cx="139.84252"
+     inkscape:cy="86.898154"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer24"
+     inkscape:current-layer="layer26"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -635,22 +679,24 @@
        inkscape:export-ydpi="363.92001"><flowRegion
          id="flowRegion3258"><rect
            id="rect3260"
-           width="214.02101"
-           height="217.0854"
+           width="214.95042"
+           height="159.9278"
            x="32.526913"
            y="210.88132" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara2564">There are many subcultures that have some sort of Death Circle Ritual (m37 Card). The circle can be out of individuals or out of companies / Juristic Persons (Mainframes)</flowPara><flowPara
+         id="flowPara2564">There are some sort of Death Circles in many subcultures (m37 Card). The circle can be out of individuals or out of companies / Juristic Persons (Mainframes)</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara2345" /><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara2347">gamification, fun, then real deads, dt1 played from the parents generation</flowPara><flowPara
+         id="flowPara2347">For some kids it is just gamification and fun</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara21936" /><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara21938">some kids really think it would be good to kill the whistleblower / whitehat, because the parents show them the image of him on &quot;inner eye&quot; (eye1, t1...) and enable an active denial system (t15, b1, t1)</flowPara><flowPara
+         id="flowPara21938">Some kids really think it would be good to kill the whistleblower / whitehat hacker, because the parents show them the image of him cyber-raping innocent women on &quot;inner eye&quot; (eye1, t1...) and enable an active denial system (t15, b1, t1) against the kids but in fact he does not cyber rape anybody.</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara2126" /></flowRoot>    <text
+         id="flowPara23068">Some kids think it's just some lesson for the Hacker to not become Hitler, or to help him not to become to powerful</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara23072">Some kids just play because they fear beeing under attack too</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara23080">Unfortunately the real problem kills 1 out of 80 and then dt1 is played against all circles</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"
@@ -1121,25 +1167,25 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="8.1147547"
+         x="7.682198"
          y="26.557375"
          id="text2197"><tspan
            sodipodi:role="line"
            id="tspan2195"
-           x="8.1147547"
+           x="7.682198"
            y="26.557375"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.26458332">Parents</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff7f2a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="8.1147547"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="7.682198"
          y="43.303806"
          id="text2197-2"><tspan
            sodipodi:role="line"
            id="tspan2195-9"
-           x="8.1147547"
+           x="7.682198"
            y="43.303806"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff7f2a;fill-opacity:1;stroke-width:0.26458332">Kids</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000;fill-opacity:1;stroke-width:0.26458332">Kids</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.00472593px;line-height:4.37795353px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24971417;enable-background:new"
@@ -5420,8 +5466,8 @@ RU5ErkJggg==
            style="stroke-width:0.11224785"
            id="tspan2359">(ᵔᴥᵔ)</tspan></text>
       <image
-         y="21.2096"
-         x="33.285084"
+         y="21.682547"
+         x="33.446537"
          id="image21972"
          xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALAAAAEfCAYAAADhikzRAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJztnXtcVHX+/58yDDdHLoIIgkgImAqJl1YpNVGpTGuNknbb3WxTd6tNy9pN01x1S8ttNTe3yyb2
@@ -5728,7 +5774,7 @@ z+vC/H8I/eewnWklNQAAAABJRU5ErkJggg==
          width="2.9624059" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.95349121px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6518898"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.95349121px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.6518898;"
          x="58.632942"
          y="40.601604"
          id="text21977"><tspan
@@ -5736,26 +5782,26 @@ z+vC/H8I/eewnWklNQAAAABJRU5ErkJggg==
            id="tspan21975"
            x="58.632942"
            y="40.601604"
-           style="stroke-width:0.6518898">⇧</tspan></text>
+           style="stroke-width:0.6518898;fill:#ff0000;">⇧</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30926037px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21649314"
-         x="60.489506"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30926037px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.21649314;"
+         x="61.532543"
          y="43.208351"
          id="text21981"><tspan
            sodipodi:role="line"
            id="tspan21979"
-           x="60.489506"
+           x="61.532543"
            y="43.208351"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.21649314">real</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.21649314;fill:#ff0000;">real</tspan><tspan
            sodipodi:role="line"
-           x="60.489506"
+           x="61.532543"
            y="46.094925"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.21649314"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.21649314;fill:#ff0000;"
            id="tspan21983">Problem</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a40000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
          x="36.573093"
          y="24.094816"
          id="text21987"><tspan
@@ -5763,7 +5809,33 @@ z+vC/H8I/eewnWklNQAAAABJRU5ErkJggg==
            id="tspan21985"
            x="36.573093"
            y="24.094816"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.26458332">⇦Idiot</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#a40000;stroke-width:0.26458332;fill-opacity:1;">⇦Idiot</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="7.843945"
+         y="29.015337"
+         id="text4164-8"><tspan
+           sodipodi:role="line"
+           x="7.843945"
+           y="29.015337"
+           style="fill:#ff0000;stroke-width:0.26458332"
+           id="tspan4166-3">guilty</tspan></text>
+      <path
+         style="fill:none;stroke:#808000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Send)"
+         d="m 45.773572,40.317118 -6.085755,0.260818"
+         id="path22026"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;fill:none;stroke:#808000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-1)"
+         d="M 43.976349,46.037267 39.488644,41.918414"
+         id="path22026-9"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;fill:none;stroke:#808000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-1-2)"
+         d="m 28.861793,39.795004 6.029738,0.864122"
+         id="path22026-9-6"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        inkscape:groupmode="layer"
